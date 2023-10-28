@@ -1,0 +1,30 @@
+.red {
+    position: relative;
+    background-color:brown;
+    width: 800px;
+    height: 400px;
+}
+.red h1{
+    color: white;
+    text-align: center;
+}
+.blue{
+    position: inherit;
+    background-color:midnightblue;
+    height: 200px;
+    top: 42px;
+}
+.circle{
+    background-color: antiquewhite;
+    position: absolute;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    top: 22px;
+    left: 325px;
+}
+.circle p{
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+}
